@@ -1,0 +1,11 @@
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\bin\Debug\otoparkotomasyonu.exe.config
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\bin\Debug\otoparkotomasyonu.exe
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\bin\Debug\otoparkotomasyonu.pdb
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.csproj.AssemblyReference.cache
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.frmAnaSayfa.resources
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.Properties.Resources.resources
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.csproj.GenerateResource.cache
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.exe
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.pdb
+C:\Users\danda\source\repos\otoparkotomasyonu\otoparkotomasyonu\obj\Debug\otoparkotomasyonu.frmAraçOtoparkYerleri.resources
